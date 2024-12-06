@@ -23,7 +23,7 @@ Bu C++ programı, araç kiralama işlemlerini yönetmek için kullanılır. Kull
 
 2. Programı derleyin:
     ```sh
-    g++ -o arac_kiralama arac-kiralama.cpp
+    g++ -o arac-kiralama arac-kiralama.cpp
     ```
 
 ## Kullanım
